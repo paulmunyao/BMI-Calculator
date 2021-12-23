@@ -1,6 +1,6 @@
-# MyPortfolio
+# BMI Calculator
 
-The project is a web application called MyBirthday.The aim is help user be able to generate their exact date ,month and year they where born.
+The project is a web application called BMI Calculator.It calculates your Body Mass Index.
 
 ## setup
 1)Install VScode<br>2)write your codes install a live server<br>3)push your code to the remote server
